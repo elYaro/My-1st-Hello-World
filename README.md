@@ -1,5 +1,5 @@
 # My-1st-Hello-World
-My 1st Hello World in Python, homework in the first week of learning python. It was 01.March 2018.
+My 1st Hello World in Python, homework in the first week of learning python in CodeCool Shool. It was 01.March 2018 and I was so proud of this code :)
 
 
 ##### Description
